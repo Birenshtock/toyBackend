@@ -1,0 +1,69 @@
+[
+  {
+    "id": "N29kK",
+    "name": "fuck my lif",
+    "price": "55",
+    "inStock": true,
+    "reviews": [
+      "review 1 best 1",
+      "review 2 almost 1",
+      "review 3 far from 1"
+    ],
+    "labels": [
+      "Battery powered",
+      "Outdoor",
+      "On wheels"
+    ]
+  },
+  {
+    "id": "B6Zwu",
+    "name": "attiach",
+    "price": 100,
+    "createdAt": 1657627757586,
+    "inStock": true,
+    "reviews": [
+      "review 1 best 1",
+      "review 2 almost 1",
+      "review 3 far from 1"
+    ],
+    "labels": [
+      "Battery powered",
+      "Outdoor",
+      "On wheels"
+    ]
+  },
+  {
+    "id": "yvZi7",
+    "name": "sss",
+    "price": "0sss",
+    "createdAt": 1657638636107,
+    "inStock": true,
+    "reviews": [
+      "review 1 best 1",
+      "review 2 almost 1",
+      "review 3 far from 1"
+    ],
+    "labels": [
+      "Battery powered",
+      "Outdoor",
+      "On wheels"
+    ]
+  },
+  {
+    "id": "zx4xo",
+    "name": "hh",
+    "price": "h",
+    "createdAt": 1657646500353,
+    "inStock": true,
+    "reviews": [
+      "review 1 best 1",
+      "review 2 almost 1",
+      "review 3 far from 1"
+    ],
+    "labels": [
+      "Battery powered",
+      "Outdoor",
+      "On wheels"
+    ]
+  }
+]
